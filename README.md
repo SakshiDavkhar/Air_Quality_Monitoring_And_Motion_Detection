@@ -31,7 +31,7 @@ If the air is unsafe but the room is empty, the system remains in a passive moni
 Refer to the schematic below for wiring the sensors to the Arduino Nano:
 
 > **Note:** The high-resolution schematic is located in the `/assets` folder.
-![Circuit Diagram](./assets/schematic.png)
+![Circuit Diagram](./assets/Schematic.png)
 
 ## 📺 Demonstration
 
